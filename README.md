@@ -14,6 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=kanakkhandelwal25)
 
-![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
 
