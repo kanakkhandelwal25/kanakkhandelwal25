@@ -10,9 +10,9 @@
 
 ![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25&count_private=true&theme=algolia)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakkhandelwal25&theme=algolia" />
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanakkhandelwal25)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakkhandelwal25&theme=algolia" />
 
 ![](https://komarev.com/ghpvc/?username=kanakkhandelwal25&color=blue&label=PROFILE+VIEWS)
 
