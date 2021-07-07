@@ -10,6 +10,10 @@
 
 [![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanakkhandelwal25&theme=algolia)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanakkhandelwal25&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
