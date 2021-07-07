@@ -8,7 +8,7 @@
 - 😄 Pronouns: *Quick Learner,Curious*
 - ⚡ Fun fact: I think I am a Pro Coder
 
-![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25&count_private=true&theme=algolia)
+[![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanakkhandelwal25&theme=algolia)](https://git.io/streak-stats)
 
