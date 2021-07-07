@@ -10,7 +10,7 @@
 
 ![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25&count_private=true&theme=algolia)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanakkhandelwal25)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanakkhandelwal25&theme=algolia)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakkhandelwal25&theme=algolia" />
 
