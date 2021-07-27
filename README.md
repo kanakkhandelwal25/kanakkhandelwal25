@@ -10,7 +10,7 @@
 
 [![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakkhandelwal25&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanakkhandelwal25&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=kanakkhandelwal25&color=blue&label=PROFILE+VIEWS)
 
